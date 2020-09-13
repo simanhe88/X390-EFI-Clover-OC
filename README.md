@@ -31,11 +31,17 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 2、wifi正常使用，默认没有状态栏图标，账号需要在plist文件中配置
 如需界面效果，可使用HeliPort软件，接近原生效果
 https://github.com/OpenIntelWireless/HeliPort
+
 3、流量监控软件下载速度一直是0，可通过桥接方式修复
 https://github.com/OpenIntelWireless/itlwm/issues/172
 
 
+
 References：
+
 https://github.com/Liu-wenxiang/Thinkpad-X390-Yoga-Clover
+
 https://github.com/tuanctob48/x390-hackintosh
+
 https://github.com/SukkaW/ThinkPad-E480-Hackintosh
+
