@@ -37,6 +37,7 @@ https://github.com/OpenIntelWireless/itlwm/issues/172
 
 
 References：
+
 https://github.com/Liu-wenxiang/Thinkpad-X390-Yoga-Clover
 
 https://github.com/tuanctob48/x390-hackintosh
