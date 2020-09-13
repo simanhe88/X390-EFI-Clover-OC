@@ -61,9 +61,9 @@
 				<key>WiFi_1</key>
 				<dict>
 					<key>password</key>
-					<string>HSC123456</string>
+					<string></string>
 					<key>ssid</key>
-					<string>201360-5G</string>
+					<string></string>
 				</dict>
 				<key>WiFi_2</key>
 				<dict>
